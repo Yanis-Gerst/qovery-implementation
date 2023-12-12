@@ -1,6 +1,6 @@
+import { handleRevealPartnerAnimation } from "./script/reveal"
 
-
-
+handleRevealPartnerAnimation();
 
 // Key Point Animation
 let observer = new IntersectionObserver(entries => {
@@ -54,8 +54,6 @@ workObserver.observe(workImg)
 
 // Test modifier le btn git
 
-
-githubButton = document.querySelector(".widget")
 
 
 
