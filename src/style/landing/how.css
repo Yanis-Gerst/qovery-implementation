@@ -1,0 +1,14 @@
+.howSection {
+	max-width: 924px;
+	padding: 6rem 2rem;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.howSection p {
+	margin-bottom: 2rem;
+}
+
+.howImg img {
+	width: 100%;
+}

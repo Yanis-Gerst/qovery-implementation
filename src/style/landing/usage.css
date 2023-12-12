@@ -1,0 +1,50 @@
+.usage-section {
+	max-width: 964px;
+	margin: 0 auto;
+	padding: 0 2rem;
+	margin-bottom: 6.25rem;
+}
+
+.usage-text {
+	text-align: center;
+	background: url("/assets/img/bg.svg") no-repeat bottom center;
+	padding-bottom: 8rem;
+	background-size: 100%;
+}
+
+
+.usage-code {
+    padding: 24px;
+    background: white;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 3px;
+    margin-bottom: 3rem;
+}
+
+.usage-code .q-tag {
+
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 150%;
+	text-transform: uppercase;
+	color: white;
+	background: #5D64D2;
+	border-radius: 3px;
+	padding: 4px 8px;
+	margin-bottom: 24px;
+	display: inline-block;
+
+}
+
+.usage-code pre {
+	overflow: auto;
+	margin: 0;
+	white-space: pre;
+
+}
+
+.usage-section .join-button {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+}

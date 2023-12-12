@@ -1,0 +1,37 @@
+.partner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin-bottom: 7.5rem;
+}
+
+.partner-text {
+    overflow: hidden;
+}
+
+.partner h2 {
+    margin-bottom: 0;
+}
+
+.partner-text {
+    margin-bottom: 3rem;
+}
+.partner-img {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+.partner-img .reveal > * {
+    animation-delay:.40s;
+    animation-duration: .6s;
+}
+
+@media (max-width: 800px) {
+    .partner-img {
+        flex-direction: column;
+    }
+
+}

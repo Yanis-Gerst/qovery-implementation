@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "HackRegular";
+    src: url("/assets/fonts/hack/Hack-Regular.ttf");
+  }
+  
+  @font-face {
+    font-family: "HackBold";
+    src: url("/assets/fonts/hack/Hack-Bold.ttf");
+  }
+  
+  @font-face {
+    font-family: "HackBoldItalic";
+    src: url("/assets/fonts/hack/Hack-BoldItalic.ttf");
+  }
+  
+  @font-face {
+    font-family: "HackItalic";
+    src: url("/assets/fonts/hack/Hack-Italic.ttf");
+  }
+
+  
+
+@font-face {
+    font-family: 'hk_grotesk';
+    src: url('/assets/fonts/hk-grotesk/hkgrotesk-bold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/hk-grotesk/hkgrotesk-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'hk_grotesk';
+    src: url('/assets/fonts/hk-grotesk/hkgrotesk-regular-webfont.woff2') format('woff2'),
+         url('/assets/fonts/hk-grotesk/hkgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: "SanFrancisco";
+    src: url("/assets/fonts/san-francisco/SF-UI-Text-Regular.otf");
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: "SanFrancisco";
+    src: url("/assets/fonts/san-francisco/SF-UI-Text-Medium.otf");
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "SanFrancisco";
+    src: url("/assets/fonts/san-francisco/SF-UI-Text-Semibold.otf");
+    font-weight: 600;
+  }
+  
+  @font-face {
+    font-family: "SanFrancisco";
+    src: url("/assets/fonts/san-francisco/SF-UI-Text-Bold.otf");
+    font-weight: 700;
+  }
+  
